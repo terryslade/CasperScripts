@@ -16,7 +16,7 @@
 #	Intitial release
 #
 # Created by Terry Slade - 5/8/2017
-# MailChimp - IT System Administrator
+# IT System Administrator
 #
 #############################################################################
 
